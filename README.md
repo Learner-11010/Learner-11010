@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Learner-11010
+- 👋 Hi, I’m Maanas Suman
 - 👀 I’m interested in developing my skills in various fields.
 - 🌱 I’m currently learning Web Development, C programming, Python and Data Entry
 - 💞️ I’m looking to collaborate on projects, which will help me improve and develop in my field. 
